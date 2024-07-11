@@ -28,4 +28,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            spmind1/simple-web-app:latest
+            yourdockerhubusername/simple-web-app:latest
